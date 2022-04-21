@@ -132,12 +132,17 @@ p {
      font-weight: 500;
      font-size: 15px;
      line-height: 24px;
+     
 }
 
 a {
      color: #222222;
      text-decoration: none;
      outline: none !important;
+}
+
+.pcolor {
+     color: rgb(48, 62, 66);
 }
 
 a,
@@ -338,7 +343,7 @@ button {
 }
 
 .text-bg h1 {
-     color: #fff;
+     color: rgb(168, 168, 168);
      font-size: 58px;
      line-height: 80px;
      padding-bottom: 15px;
@@ -355,7 +360,7 @@ button {
 }
 
 .text-bg p {
-     color: #fff;
+     color: rgb(48, 62, 66);
      font-size: 17px;
      line-height: 28px;
      padding-bottom: 60px;
@@ -608,13 +613,13 @@ button {
 }
 
 .people .titlepage h2 {
-     color: #fff;
+     color: #e478ff;
 }
 
 .people .titlepage span {
      font-size: 17px;
      line-height: 28px;
-     color: #fff;
+     color: #704a27;
      font-weight: 500;
 }
 
